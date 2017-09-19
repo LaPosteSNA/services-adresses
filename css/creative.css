@@ -297,17 +297,17 @@ header.masthead {
     background-color: #222222; }
 
 .btn-primary {
-  color: white;
-  border-color: #ffc928;
-  background-color: #ffc928; }
+  color: #000;
+  border-color: #f4b700;
+  background-color: #f4b700; }
   .btn-primary.focus, .btn-primary:focus {
     color: white;
     border-color: #a4270d;
     background-color: #eb3812; }
   .btn-primary:hover {
-    color: white;
-    border-color: #e13612;
-    background-color: #eb3812; }
+    color: #000;
+    border-color: #febe00;
+    background-color: #eaaf00; }
   .btn-primary.active, .btn-primary:active,
   .open > .btn-primary.dropdown-toggle {
     color: white;
