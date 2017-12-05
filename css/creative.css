@@ -55,6 +55,8 @@ p {
     background-color: #ffc928 !important;
 }
 
+
+
 .bg-dark {
     color: white;
     background-color: #3d3d3d !important;
@@ -330,6 +332,11 @@ header.masthead .header-content .header-content-inner p {
     outline: none;
 }
 
+.vcenter {
+    margin-top: 60px;
+}
+
+
 @media (min-width: 768px) {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
         font-size: 16px;
@@ -337,7 +344,10 @@ header.masthead .header-content .header-content-inner p {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
         font-size: 22px;
     }
+
+
 }
+
 
 .call-to-action {
     padding: 50px 0;
@@ -480,6 +490,8 @@ fieldset[disabled] .btn-primary:hover {
     border-color: #eaaf00;
     background-color: #febe00;
 }
+
+
 
 .btn-primary .badge {
     color: #ffc928;
